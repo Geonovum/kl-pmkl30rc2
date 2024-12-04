@@ -20,8 +20,8 @@ var documentConfig =
     "https://docs.geostandaarden.nl/kl/cv-st-pmkl30rc2-20240930/"
   ],
   previousMaturity: "cv",
-  github: "https://github.com/geonovum/kl-pmkl30rc2/",
-  issueBase: "https://github.com/geonovum/kl-pmkl30rc2/issues/",
+  github: "https://github.com/Geonovum/imkl-werkomgeving/",
+  issueBase: "https://github.com/Geonovum/imkl-werkomgeving/issues/",
   edDraftURI: "https://geonovum.github.io/kl-pmkl30rc2/",
   canonicalURI: "https://docs.geostandaarden.nl/kl/pmkl30rc2/",
   authors: [
