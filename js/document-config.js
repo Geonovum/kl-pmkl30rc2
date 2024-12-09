@@ -9,17 +9,17 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/kl/pmkl30rc2/"
   ],
-  publishDate: "2024-12-04",
+  publishDate: "2024-12-09",
   publishVersion: "3.0.0",
   thisVersion: [
     "https://docs.geostandaarden.nl/kl/cv-st-pmkl30rc2-20241204/"
   ],
-  previousPublishDate: "2024-09-30",
-  previousPublishVersion: "3.0.0",
+  previousPublishDate: "2022-04-15",
+  previousPublishVersion: "2.0.1",
   prevVersion: [
-    "https://docs.geostandaarden.nl/kl/cv-st-pmkl30rc2-20240930/"
+    "https://docs.geostandaarden.nl/kl/IMKLversie2.0.1rc/PMKL-Handreiking-visualisatie-2.0.1rc.pdf"
   ],
-  previousMaturity: "cv",
+  previousMaturity: "def",
   github: "https://github.com/Geonovum/imkl-werkomgeving/",
   issueBase: "https://github.com/Geonovum/imkl-werkomgeving/issues/",
   edDraftURI: "https://geonovum.github.io/kl-pmkl30rc2/",
