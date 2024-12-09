@@ -12,7 +12,7 @@ var documentConfig =
   publishDate: "2024-12-09",
   publishVersion: "3.0.0",
   thisVersion: [
-    "https://docs.geostandaarden.nl/kl/cv-st-pmkl30rc2-20241204/"
+    "https://docs.geostandaarden.nl/kl/cv-st-pmkl30rc2-20241209/"
   ],
   previousPublishDate: "2022-04-15",
   previousPublishVersion: "2.0.1",
